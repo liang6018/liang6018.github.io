@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on 昱良的網站</title>
+    <link>https://liang6018.github.io/blog/</link>
+    <description>Recent content in blog on 昱良的網站</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 06 Feb 2025 20:07:47 +0800</lastBuildDate>
+    <atom:link href="https://liang6018.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How To Use Checklists To Improve Your UX</title>
+      <link>https://liang6018.github.io/blog/experience/</link>
+      <pubDate>Thu, 06 Feb 2025 20:07:47 +0800</pubDate>
+      <guid>https://liang6018.github.io/blog/experience/</guid>
+      <description>&lt;p&gt;「上圖為 AI 生成圖標，非官方標誌」&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h1 id=&#34;編輯中&#34;&gt;編輯中&amp;hellip;&amp;hellip;&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>實境解謎</title>
+      <link>https://liang6018.github.io/blog/game/</link>
+      <pubDate>Mon, 03 Feb 2025 22:07:47 +0800</pubDate>
+      <guid>https://liang6018.github.io/blog/game/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;📖 預計閱讀時間：約 10 分鐘&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;跟大家分享一下我在2023年10月~11月那邊有去參加YS的&lt;a href=&#34;https://ysyct.wda.gov.tw/activity_detail.php?id=124&#34;&gt;策略高手AKA實境解謎設計&lt;/a&gt;，當時分成8組，我們這組負責負責公立機構服務鏈結，按照遊戲文本來設計劇情與2個謎題，最後獲得復古寶藏。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
